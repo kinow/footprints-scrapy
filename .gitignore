@@ -1,5 +1,5 @@
 .env
 footprints.json
-footprints.db
+footprints.sqlite
 *.pyc
 
