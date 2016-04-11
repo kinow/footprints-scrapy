@@ -1,5 +1,7 @@
 .env
 footprints.json
 footprints.sqlite
+footprints.csv
+insert.sql
 *.pyc
 
